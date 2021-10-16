@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgiosEleftheriadis
-- 👀 I’m interested in Artificial Intelligence, Robotics. I also love to study Psychology, Biology and Neuroscience topics.
+- 👀 I’m interested in Artificial Intelligence and Robotics. I also love to study topics on Psychology, Biology and Neuroscience.
 - 🌱 I’m currently learning Computer Science at the Department of Informatics of the Ionian University.
-- 💞️ I’m looking to collaborate on making a G.A.I system.
+- 💞️ I’m looking to collaborate on making a G.A.I project.
 - 📫 How to reach me: georgioseleftheriadhs@gmail.com
 
 <!---
